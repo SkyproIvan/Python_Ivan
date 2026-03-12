@@ -12,4 +12,4 @@ print_letter(5)
 print_letter(3)
 print_letter(5)
 print_letter(3)
-print_letter(5)
+print_letter(5) #  добавлены пустые строчки для соблюдения правил написания кода
